@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Halo there🙌, my name Mohd Hoiru
+
+### I have interest on 
+- 👨‍💻 Web Programming
+- 📊 Data Analyst
+- 🦾 Machine Learning
