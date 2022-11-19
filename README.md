@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 ### I have interest on 
 - 👨‍💻 Web Programming
+- ☁🌨 Cloud Computing 
 - 📊 Data Analyst
 - 🦾 Machine Learning
